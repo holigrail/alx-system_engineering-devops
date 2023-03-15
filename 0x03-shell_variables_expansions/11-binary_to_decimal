@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%,'\n" $(("2#$NUM"))
+printf "%i\n" $(("2#$NUM"))
